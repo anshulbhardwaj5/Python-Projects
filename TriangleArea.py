@@ -1,9 +1,9 @@
-# Here we are making a simple python triangle program
-print ("Here we are making a triangle of your desired dimensions!!")
-base = int(input("Enter the Base of triangle...")
-height = int(input("Enter the Height of triangle"))
+# Triangle Area Finding
 
-area = 0
-
-print area = 0.5* base * height
+a = float(input("Enter the one side")) # we can use int as it gives same result
+b = float(input("Enter the second side"))
+c = float(input("Enter the third side"))
+s = (a+b+c)/2  # formula to find area
+area = (s*(s-a)*(s-b)*(s-c)) ** 0.5
+print ("The area of triangle is area ", area)
 
