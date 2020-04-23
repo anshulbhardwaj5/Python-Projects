@@ -11,7 +11,7 @@ def fib(n):
   if n < 0:
     print("Number can't be taken below zero!!") 
   else:
-        for i in range(2 , n):
+        for i in range(2 , n): # for i in range(2 , 12): if we want to print till specific index 
         c = a+b
         a = b 
         b = c
