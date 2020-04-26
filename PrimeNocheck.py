@@ -2,7 +2,7 @@ print"We will check which is prime num and which is even num...!!"
 pnum = int(input("Enter a number..."))
 nume = int(input("Enter a number..."))
 for i in range (2, pnum):
-    if pnum % i ==0:
+    if pnum % i ==0:           # there should be 1 as a reminder to make this prime so if 0 remains then it will  be even
         print "Number is not Prime"
         break
 else:
