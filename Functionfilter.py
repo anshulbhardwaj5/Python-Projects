@@ -29,6 +29,3 @@ print(" Sums of list ",sumsofcool_nums)
 #('These are doubles of evens ', [8, 112, 112, 168, 4, 12, 12, 16, 12])
 #(' Sums of list ', 5955)
 
-
-
-
