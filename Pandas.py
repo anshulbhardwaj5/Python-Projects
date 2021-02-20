@@ -12,3 +12,10 @@ df2 = pd.DataFrame({'A' : 1.,
                   
 print(df2)
 print(df2.dtype)
+
+d = {'a': 1, 'b': 2, 'c': 3}
+ser = pd.Series(data=d, index=['a', 'b', 'c'])
+print(ser)
+
+ser = pd.Series(pd.Categorical(['a', 'b', 'a']))
+print(ser.array)
