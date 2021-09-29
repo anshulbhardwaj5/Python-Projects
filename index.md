@@ -7,9 +7,9 @@ Skills:-
         NodeJs    CSS
         C++       CV
                                                                               
-Header 1 PYTHON
-Header 2 PYTHON 
-Header 3 PYTHON
+#PYTHON
+#PYTHON 
+#PYTHON
 
 - Bulleted
 - List
