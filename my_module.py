@@ -7,3 +7,9 @@ person1 = {
     "age": 23,
     "Job": "SDE-1"
 }
+person2 = {
+    "name": "Jhon",
+    "name": "Anhul",
+    "age": 23,
+    "Job": "SDE-1"
+}
